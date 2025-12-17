@@ -86,7 +86,7 @@ class OpenAIProvider:
         self.model_name = model_name
         # Expect the NVIDIA-style base_url and API key in env
         self.base_url = base_url or os.getenv("NV_API_BASE_URL") or os.getenv("NV_BASE_URL") or "https://integrate.api.nvidia.com/v1"
-        self.api_key = os.getenv("NV_API_KEY") or os.getenv("NVIDIA_API_KEY") or os.getenv("NVAPI_KEY") or "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"
+        self.api_key = os.getenv("NV_API_KEY") or os.getenv("NVIDIA_API_KEY") or os.getenv("NVAPI_KEY") or ""
         if not self.api_key:
             raise ValueError("NVIDIA API key not found in environment (NV_API_KEY / NVIDIA_API_KEY / NVAPI_KEY).")
 
