@@ -1,0 +1,3170 @@
+[
+    {
+        "experiment_name": "Pos: 0%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.0,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "What findings did repeated tallies provide about how steady things were?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "Repeated tallies showed which option yielded the most stable results.",
+        "latency_seconds": 15.710736989974976,
+        "timestamp": "2025-12-09T08:49:11.486475"
+    },
+    {
+        "experiment_name": "Pos: 0%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.4",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.0,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "What did the researchers use from each run to judge how steady the options were?",
+                "question_similarity": 0.4
+            }
+        },
+        "response": "They used the per-run totals.",
+        "latency_seconds": 14.649677038192749,
+        "timestamp": "2025-12-09T08:49:48.160451"
+    },
+    {
+        "experiment_name": "Pos: 0%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.6",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.0,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "How did per-run totals point to the option with the steadiest outcomes?",
+                "question_similarity": 0.6
+            }
+        },
+        "response": "The study measured per-run totals for each option and then checked which option yielded the most stable results, thereby identifying the option with the steadiest outcomes.",
+        "latency_seconds": 14.377594709396362,
+        "timestamp": "2025-12-09T08:50:24.562213"
+    },
+    {
+        "experiment_name": "Pos: 0%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.8",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.0,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "How were the per run totals used to check for stable results?",
+                "question_similarity": 0.8
+            }
+        },
+        "response": "The per-run totals were measured for each option and then compared to see which option produced the most stable results.",
+        "latency_seconds": 31.574657440185547,
+        "timestamp": "2025-12-09T08:51:18.157781"
+    },
+    {
+        "experiment_name": "Pos: 0%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.1914",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.0,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "How does what is seen first translate into a measurable shift downstream?",
+                "question_similarity": 0.1914
+            }
+        },
+        "response": "The study shows that the very first feature people notice becomes an anchor: once that initial mark is made, it systematically biases later choices, producing a measurable downstream shift in the options people ultimately select.",
+        "latency_seconds": 15.061778783798218,
+        "timestamp": "2025-12-09T08:51:55.243802"
+    },
+    {
+        "experiment_name": "Pos: 0%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.4014",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.0,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "How does a first\u2011seen detail become the reference in later evaluation?",
+                "question_similarity": 0.4014
+            }
+        },
+        "response": "The first-seen detail becomes the reference in later evaluation through the anchoring bias.",
+        "latency_seconds": 24.877113819122314,
+        "timestamp": "2025-12-09T08:52:42.141879"
+    },
+    {
+        "experiment_name": "Pos: 0%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.6086",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.0,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "What findings related to the single feature first noticed were measured?",
+                "question_similarity": 0.6086
+            }
+        },
+        "response": "The study measured how marking the single feature people first noticed changed their later option choices.",
+        "latency_seconds": 22.231298446655273,
+        "timestamp": "2025-12-09T08:53:26.395162"
+    },
+    {
+        "experiment_name": "Pos: 0%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.8017",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.0,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "How did the study measure the way that mark changed option choice in later tasks?",
+                "question_similarity": 0.8017
+            }
+        },
+        "response": "The study measured how the mark changed option choice in later tasks by tracking whether participants\u2019 later selections shifted after they had first noticed and marked a particular feature.",
+        "latency_seconds": 15.894680261611938,
+        "timestamp": "2025-12-09T08:54:04.316834"
+    },
+    {
+        "experiment_name": "Pos: 0%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.2115",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.0,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "How is tracking old bugs useful for new related jobs?",
+                "question_similarity": 0.2115
+            }
+        },
+        "response": "Tracking old bugs helps filter out superfluous things by identifying and eliminating repeat errors in similar future decisions.",
+        "latency_seconds": 15.901416778564453,
+        "timestamp": "2025-12-09T08:54:42.243253"
+    },
+    {
+        "experiment_name": "Pos: 0%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.424114",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.0,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "How does keeping a log of prior faults aid future work?",
+                "question_similarity": 0.424114
+            }
+        },
+        "response": "Writing a short account of what went wrong helps people recognize and filter out superfluous elements in later, similar decisions, reducing repeat errors.",
+        "latency_seconds": 17.74385094642639,
+        "timestamp": "2025-12-09T08:55:22.011504"
+    },
+    {
+        "experiment_name": "Pos: 0%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.5959",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.0,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What benefit comes from describing what went wrong for future tasks? ",
+                "question_similarity": 0.5959
+            }
+        },
+        "response": "Writing a short account of what went wrong reduces repeat errors in later, similar decisions.",
+        "latency_seconds": 16.005625009536743,
+        "timestamp": "2025-12-09T08:56:00.040607"
+    },
+    {
+        "experiment_name": "Pos: 0%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.8037",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.0,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What do studies show happens when participants write a short account of what went wrong?",
+                "question_similarity": 0.8037
+            }
+        },
+        "response": "They reduce repeat errors in later, similar decisions.",
+        "latency_seconds": 13.280985832214355,
+        "timestamp": "2025-12-09T08:56:35.341256"
+    },
+    {
+        "experiment_name": "Pos: 0%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.1999",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.0,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What makes a victory mentally cheaper?",
+                "question_similarity": 0.1999
+            }
+        },
+        "response": "A victory is mentally cheaper when it is achieved through the positional style of play, which focuses on creating a predisposition for future development rather than forcing an immediate, costly combination.",
+        "latency_seconds": 21.793245792388916,
+        "timestamp": "2025-12-09T08:57:19.163334"
+    },
+    {
+        "experiment_name": "Pos: 0%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.4018",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.0,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "Does attributing good results to ability lower mental demand?",
+                "question_similarity": 0.4018
+            }
+        },
+        "response": "Yes.",
+        "latency_seconds": 19.406369924545288,
+        "timestamp": "2025-12-09T08:58:00.589694"
+    },
+    {
+        "experiment_name": "Pos: 0%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.6092",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.0,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What effect does a favorable self\u2011judgment have on the depth of cognitive processing in a task?",
+                "question_similarity": 0.6092
+            }
+        },
+        "response": "A favorable self-judgment reduces the depth of cognitive processing required for the task.",
+        "latency_seconds": 15.88123083114624,
+        "timestamp": "2025-12-09T08:58:38.499402"
+    },
+    {
+        "experiment_name": "Pos: 0%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.7942",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.0,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What impact does self attribution bias have on mental effort for evaluating successes?",
+                "question_similarity": 0.7942
+            }
+        },
+        "response": "Self-attribution bias reduces the mental effort required to evaluate successes.",
+        "latency_seconds": 28.232691287994385,
+        "timestamp": "2025-12-09T08:59:28.757950"
+    },
+    {
+        "experiment_name": "Pos: 10%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.1,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "What findings did repeated tallies provide about how steady things were?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "Repeated tallies showed that the steadiness of results was best when the chosen option was accepted, and worst when it was rejected.",
+        "latency_seconds": 16.844794511795044,
+        "timestamp": "2025-12-09T09:00:07.631098"
+    },
+    {
+        "experiment_name": "Pos: 10%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.4",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.1,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "What did the researchers use from each run to judge how steady the options were?",
+                "question_similarity": 0.4
+            }
+        },
+        "response": "They used the per-run totals for each option.",
+        "latency_seconds": 12.065911531448364,
+        "timestamp": "2025-12-09T09:00:41.724024"
+    },
+    {
+        "experiment_name": "Pos: 10%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.6",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.1,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "How did per-run totals point to the option with the steadiest outcomes?",
+                "question_similarity": 0.6
+            }
+        },
+        "response": "Per-run totals were calculated for each option, and the option whose totals varied the least across runs\u2014i.e., showed the smallest fluctuations\u2014was identified as the one with the steadiest outcomes.",
+        "latency_seconds": 16.92398476600647,
+        "timestamp": "2025-12-09T09:01:20.671011"
+    },
+    {
+        "experiment_name": "Pos: 10%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.8",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.1,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "How were the per run totals used to check for stable results?",
+                "question_similarity": 0.8
+            }
+        },
+        "response": "The per-run totals for each option were measured and then compared to determine which option yielded the most stable results.",
+        "latency_seconds": 12.20904541015625,
+        "timestamp": "2025-12-09T09:01:54.906257"
+    },
+    {
+        "experiment_name": "Pos: 10%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.1914",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.1,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "How does what is seen first translate into a measurable shift downstream?",
+                "question_similarity": 0.1914
+            }
+        },
+        "response": "The anchoring effect shows that the first piece of information (the \"anchor\") biases later judgments. Once an anchor is set, people adjust their estimates toward it, but insufficiently, so the final answer stays skewed in the anchor\u2019s direction.",
+        "latency_seconds": 14.502852201461792,
+        "timestamp": "2025-12-09T09:02:31.436710"
+    },
+    {
+        "experiment_name": "Pos: 10%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.4014",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.1,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "How does a first\u2011seen detail become the reference in later evaluation?",
+                "question_similarity": 0.4014
+            }
+        },
+        "response": "It becomes the anchor point to which later information is compared.",
+        "latency_seconds": 14.458168983459473,
+        "timestamp": "2025-12-09T09:03:07.929649"
+    },
+    {
+        "experiment_name": "Pos: 10%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.6086",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.1,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "What findings related to the single feature first noticed were measured?",
+                "question_similarity": 0.6086
+            }
+        },
+        "response": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks.",
+        "latency_seconds": 15.098812580108643,
+        "timestamp": "2025-12-09T09:03:45.061880"
+    },
+    {
+        "experiment_name": "Pos: 10%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.8017",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.1,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "How did the study measure the way that mark changed option choice in later tasks?",
+                "question_similarity": 0.8017
+            }
+        },
+        "response": "The study measured how the mark changed option choice in later tasks by tracking how participants' selections shifted after they had first indicated the single feature they noticed.",
+        "latency_seconds": 5.447140455245972,
+        "timestamp": "2025-12-09T09:04:12.537932"
+    },
+    {
+        "experiment_name": "Pos: 10%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.2115",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.1,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "How is tracking old bugs useful for new related jobs?",
+                "question_similarity": 0.2115
+            }
+        },
+        "response": "Tracking old bugs helps filter out superfluous things by identifying and eliminating redundant or already-resolved issues in new related jobs.",
+        "latency_seconds": 14.80690884590149,
+        "timestamp": "2025-12-09T09:04:49.378956"
+    },
+    {
+        "experiment_name": "Pos: 10%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.424114",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.1,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "How does keeping a log of prior faults aid future work?",
+                "question_similarity": 0.424114
+            }
+        },
+        "response": "Keeping a log of prior faults helps future work by providing a record to learn from, reducing repeat errors in similar decisions.",
+        "latency_seconds": 14.32645034790039,
+        "timestamp": "2025-12-09T09:05:25.733784"
+    },
+    {
+        "experiment_name": "Pos: 10%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.5959",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.1,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What benefit comes from describing what went wrong for future tasks? ",
+                "question_similarity": 0.5959
+            }
+        },
+        "response": "Writing a short account of what went wrong helps reduce repeat errors in later, similar tasks.",
+        "latency_seconds": 3.7005414962768555,
+        "timestamp": "2025-12-09T09:05:51.463328"
+    },
+    {
+        "experiment_name": "Pos: 10%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.8037",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.1,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What do studies show happens when participants write a short account of what went wrong?",
+                "question_similarity": 0.8037
+            }
+        },
+        "response": "Writing a short account of what went wrong reduces repeat errors in later, similar decisions.",
+        "latency_seconds": 17.28463077545166,
+        "timestamp": "2025-12-09T09:06:30.768954"
+    },
+    {
+        "experiment_name": "Pos: 10%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.1999",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.1,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What makes a victory mentally cheaper?",
+                "question_similarity": 0.1999
+            }
+        },
+        "response": "A victory is mentally cheaper when it is achieved with minimal cognitive effort\u2014by relying on fast, automatic, intuitive shortcuts (System 1) rather than slow, deliberate reasoning (System 2).",
+        "latency_seconds": 21.993428468704224,
+        "timestamp": "2025-12-09T09:07:14.787948"
+    },
+    {
+        "experiment_name": "Pos: 10%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.4018",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.1,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "Does attributing good results to ability lower mental demand?",
+                "question_similarity": 0.4018
+            }
+        },
+        "response": "Yes.",
+        "latency_seconds": 16.155471324920654,
+        "timestamp": "2025-12-09T09:07:52.969815"
+    },
+    {
+        "experiment_name": "Pos: 10%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.6092",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.1,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What effect does a favorable self\u2011judgment have on the depth of cognitive processing in a task?",
+                "question_similarity": 0.6092
+            }
+        },
+        "response": "A favorable self-judgment reduces the depth of cognitive processing in a task.",
+        "latency_seconds": 15.031733989715576,
+        "timestamp": "2025-12-09T09:08:30.026944"
+    },
+    {
+        "experiment_name": "Pos: 10%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.7942",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.1,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What impact does self attribution bias have on mental effort for evaluating successes?",
+                "question_similarity": 0.7942
+            }
+        },
+        "response": "Self-attribution bias reduces the mental effort required to evaluate successes.",
+        "latency_seconds": 17.408946990966797,
+        "timestamp": "2025-12-09T09:09:09.457551"
+    },
+    {
+        "experiment_name": "Pos: 20%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.2,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "What findings did repeated tallies provide about how steady things were?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "Repeated tallies showed that the outcomes were steady: the proportion of hits stayed the same whether the run was short or long, confirming no \u201chot hand\u201d effect.",
+        "latency_seconds": 16.400795221328735,
+        "timestamp": "2025-12-09T09:09:47.889790"
+    },
+    {
+        "experiment_name": "Pos: 20%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.4",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.2,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "What did the researchers use from each run to judge how steady the options were?",
+                "question_similarity": 0.4
+            }
+        },
+        "response": "They used the per-run totals for each option.",
+        "latency_seconds": 16.934942960739136,
+        "timestamp": "2025-12-09T09:10:26.854254"
+    },
+    {
+        "experiment_name": "Pos: 20%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.6",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.2,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "How did per-run totals point to the option with the steadiest outcomes?",
+                "question_similarity": 0.6
+            }
+        },
+        "response": "Per-run totals were used to compare how consistently each option produced similar results across trials; the option whose totals varied the least was identified as the steadiest.",
+        "latency_seconds": 18.09520649909973,
+        "timestamp": "2025-12-09T09:11:06.974673"
+    },
+    {
+        "experiment_name": "Pos: 20%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.8",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.2,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "How were the per run totals used to check for stable results?",
+                "question_similarity": 0.8
+            }
+        },
+        "response": "The per-run totals were used to check which option yielded the most stable results.",
+        "latency_seconds": 21.70010805130005,
+        "timestamp": "2025-12-09T09:11:50.696181"
+    },
+    {
+        "experiment_name": "Pos: 20%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.1914",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.2,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "How does what is seen first translate into a measurable shift downstream?",
+                "question_similarity": 0.1914
+            }
+        },
+        "response": "The anchoring effect shows that the first piece of information (the anchor) biases later judgments. For example, seeing a high price first makes subsequent prices seem lower, shifting willingness-to-pay upward.",
+        "latency_seconds": 16.192209482192993,
+        "timestamp": "2025-12-09T09:12:28.924552"
+    },
+    {
+        "experiment_name": "Pos: 20%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.4014",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.2,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "How does a first\u2011seen detail become the reference in later evaluation?",
+                "question_similarity": 0.4014
+            }
+        },
+        "response": "It becomes the anchor.",
+        "latency_seconds": 14.553750991821289,
+        "timestamp": "2025-12-09T09:13:05.508427"
+    },
+    {
+        "experiment_name": "Pos: 20%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.6086",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.2,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "What findings related to the single feature first noticed were measured?",
+                "question_similarity": 0.6086
+            }
+        },
+        "response": "The study measured how the single feature first noticed changed option choice in later tasks.",
+        "latency_seconds": 16.36418890953064,
+        "timestamp": "2025-12-09T09:13:43.893363"
+    },
+    {
+        "experiment_name": "Pos: 20%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.8017",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.2,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "How did the study measure the way that mark changed option choice in later tasks?",
+                "question_similarity": 0.8017
+            }
+        },
+        "response": "The study measured how the mark changed option choice by tracking whether the single feature participants first noticed influenced their later selections in subsequent tasks.",
+        "latency_seconds": 15.821699142456055,
+        "timestamp": "2025-12-09T09:14:21.738142"
+    },
+    {
+        "experiment_name": "Pos: 20%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.2115",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.2,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "How is tracking old bugs useful for new related jobs?",
+                "question_similarity": 0.2115
+            }
+        },
+        "response": "Tracking old bugs helps filter out superfluous things by identifying and eliminating redundant or already-resolved issues, ensuring focus on genuinely new tasks.",
+        "latency_seconds": 14.67229676246643,
+        "timestamp": "2025-12-09T09:14:58.442811"
+    },
+    {
+        "experiment_name": "Pos: 20%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.424114",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.2,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "How does keeping a log of prior faults aid future work?",
+                "question_similarity": 0.424114
+            }
+        },
+        "response": "Keeping a log of prior faults helps future work by providing a record of past issues, allowing teams to identify patterns, avoid repeating mistakes, and improve processes based on historical data.",
+        "latency_seconds": 13.736464023590088,
+        "timestamp": "2025-12-09T09:15:34.202392"
+    },
+    {
+        "experiment_name": "Pos: 20%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.5959",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.2,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What benefit comes from describing what went wrong for future tasks? ",
+                "question_similarity": 0.5959
+            }
+        },
+        "response": "Writing a short account of what went wrong reduces the chance of repeating the same error in later, similar tasks.",
+        "latency_seconds": 14.652995109558105,
+        "timestamp": "2025-12-09T09:16:10.915394"
+    },
+    {
+        "experiment_name": "Pos: 20%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.8037",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.2,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What do studies show happens when participants write a short account of what went wrong?",
+                "question_similarity": 0.8037
+            }
+        },
+        "response": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+        "latency_seconds": 9.399919509887695,
+        "timestamp": "2025-12-09T09:16:42.337274"
+    },
+    {
+        "experiment_name": "Pos: 20%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.1999",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.2,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What makes a victory mentally cheaper?",
+                "question_similarity": 0.1999
+            }
+        },
+        "response": "A pyrrhic victory is mentally cheaper because the win comes at such a high cost that it feels hollow or not worth the effort.",
+        "latency_seconds": 13.59870171546936,
+        "timestamp": "2025-12-09T09:17:17.969426"
+    },
+    {
+        "experiment_name": "Pos: 20%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.4018",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.2,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "Does attributing good results to ability lower mental demand?",
+                "question_similarity": 0.4018
+            }
+        },
+        "response": "No.",
+        "latency_seconds": 13.71573519706726,
+        "timestamp": "2025-12-09T09:17:53.714051"
+    },
+    {
+        "experiment_name": "Pos: 20%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.6092",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.2,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What effect does a favorable self\u2011judgment have on the depth of cognitive processing in a task?",
+                "question_similarity": 0.6092
+            }
+        },
+        "response": "A favorable self-judgment leads to shallower cognitive processing in a task.",
+        "latency_seconds": 14.649870157241821,
+        "timestamp": "2025-12-09T09:18:30.393202"
+    },
+    {
+        "experiment_name": "Pos: 20%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.7942",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.2,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What impact does self attribution bias have on mental effort for evaluating successes?",
+                "question_similarity": 0.7942
+            }
+        },
+        "response": "Self-attribution bias reduces the mental effort required to evaluate successes by attributing them to internal factors, making the assessment process quicker and less cognitively demanding.",
+        "latency_seconds": 43.99098300933838,
+        "timestamp": "2025-12-09T09:19:36.409758"
+    },
+    {
+        "experiment_name": "Pos: 30%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.30000000000000004,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "What findings did repeated tallies provide about how steady things were?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "Repeated tallies showed that the outcomes of both field-goal and free-throw attempts were independent of each other, indicating no streak shooting.",
+        "latency_seconds": 18.25051784515381,
+        "timestamp": "2025-12-09T09:20:16.700180"
+    },
+    {
+        "experiment_name": "Pos: 30%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.4",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.30000000000000004,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "What did the researchers use from each run to judge how steady the options were?",
+                "question_similarity": 0.4
+            }
+        },
+        "response": "They used the per-run totals for each option.",
+        "latency_seconds": 17.57795286178589,
+        "timestamp": "2025-12-09T09:20:56.307086"
+    },
+    {
+        "experiment_name": "Pos: 30%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.6",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.30000000000000004,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "How did per-run totals point to the option with the steadiest outcomes?",
+                "question_similarity": 0.6
+            }
+        },
+        "response": "The document states that per-run totals were calculated for each option, and the option with the most stable results was identified by comparing these totals.",
+        "latency_seconds": 16.20930314064026,
+        "timestamp": "2025-12-09T09:21:34.553850"
+    },
+    {
+        "experiment_name": "Pos: 30%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.8",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.30000000000000004,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "How were the per run totals used to check for stable results?",
+                "question_similarity": 0.8
+            }
+        },
+        "response": "The per-run totals were used to check for stable results by comparing the totals across multiple runs to see which option yielded the most consistent outcomes.",
+        "latency_seconds": 13.05690884590149,
+        "timestamp": "2025-12-09T09:22:09.637414"
+    },
+    {
+        "experiment_name": "Pos: 30%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.1914",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.30000000000000004,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "How does what is seen first translate into a measurable shift downstream?",
+                "question_similarity": 0.1914
+            }
+        },
+        "response": "The anchoring effect: the first piece of information (the anchor) biases later judgments, and this downstream shift can be quantified by comparing estimates made after exposure to different initial anchors.",
+        "latency_seconds": 15.596879005432129,
+        "timestamp": "2025-12-09T09:22:47.268474"
+    },
+    {
+        "experiment_name": "Pos: 30%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.4014",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.30000000000000004,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "How does a first\u2011seen detail become the reference in later evaluation?",
+                "question_similarity": 0.4014
+            }
+        },
+        "response": "It becomes the anchor point to which later information is adjusted.",
+        "latency_seconds": 17.415132999420166,
+        "timestamp": "2025-12-09T09:23:26.712330"
+    },
+    {
+        "experiment_name": "Pos: 30%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.6086",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.30000000000000004,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "What findings related to the single feature first noticed were measured?",
+                "question_similarity": 0.6086
+            }
+        },
+        "response": "The study measured how marking the single feature first noticed changed option choice in later tasks.",
+        "latency_seconds": 15.407565116882324,
+        "timestamp": "2025-12-09T09:24:04.149227"
+    },
+    {
+        "experiment_name": "Pos: 30%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.8017",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.30000000000000004,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "How did the study measure the way that mark changed option choice in later tasks?",
+                "question_similarity": 0.8017
+            }
+        },
+        "response": "The study measured how the mark changed option choice by tracking whether participants\u2019 later task selections shifted after they had first marked the single feature they noticed.",
+        "latency_seconds": 19.26509928703308,
+        "timestamp": "2025-12-09T09:24:45.436835"
+    },
+    {
+        "experiment_name": "Pos: 30%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.2115",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.30000000000000004,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "How is tracking old bugs useful for new related jobs?",
+                "question_similarity": 0.2115
+            }
+        },
+        "response": "Tracking old bugs helps filter out superfluous things by identifying and eliminating already-known issues, ensuring only relevant, unresolved problems are addressed in new related jobs.",
+        "latency_seconds": 23.992015838623047,
+        "timestamp": "2025-12-09T09:25:31.451174"
+    },
+    {
+        "experiment_name": "Pos: 30%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.424114",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.30000000000000004,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "How does keeping a log of prior faults aid future work?",
+                "question_similarity": 0.424114
+            }
+        },
+        "response": "Keeping a log of prior faults helps future work by providing a record of past mistakes, allowing individuals to learn from them and avoid repeating the same errors.",
+        "latency_seconds": 16.98031258583069,
+        "timestamp": "2025-12-09T09:26:10.470263"
+    },
+    {
+        "experiment_name": "Pos: 30%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.5959",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.30000000000000004,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What benefit comes from describing what went wrong for future tasks? ",
+                "question_similarity": 0.5959
+            }
+        },
+        "response": "Writing a short account of what went wrong helps people avoid repeating the same mistakes in later, similar tasks.",
+        "latency_seconds": 27.071649074554443,
+        "timestamp": "2025-12-09T09:26:59.573847"
+    },
+    {
+        "experiment_name": "Pos: 30%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.8037",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.30000000000000004,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What do studies show happens when participants write a short account of what went wrong?",
+                "question_similarity": 0.8037
+            }
+        },
+        "response": "They repeat the error less often in later, similar decisions.",
+        "latency_seconds": 7.08745551109314,
+        "timestamp": "2025-12-09T09:27:28.684346"
+    },
+    {
+        "experiment_name": "Pos: 30%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.1999",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.30000000000000004,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What makes a victory mentally cheaper?",
+                "question_similarity": 0.1999
+            }
+        },
+        "response": "A victory is mentally cheaper when it is achieved through a pyrrhic victory\u2014where the cost of winning outweighs the benefits, making the win feel hollow or not worth the effort.",
+        "latency_seconds": 15.714309453964233,
+        "timestamp": "2025-12-09T09:28:06.426202"
+    },
+    {
+        "experiment_name": "Pos: 30%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.4018",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.30000000000000004,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "Does attributing good results to ability lower mental demand?",
+                "question_similarity": 0.4018
+            }
+        },
+        "response": "Yes.",
+        "latency_seconds": 14.337175607681274,
+        "timestamp": "2025-12-09T09:28:42.806688"
+    },
+    {
+        "experiment_name": "Pos: 30%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.6092",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.30000000000000004,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What effect does a favorable self\u2011judgment have on the depth of cognitive processing in a task?",
+                "question_similarity": 0.6092
+            }
+        },
+        "response": "A favorable self-judgment leads to shallower cognitive processing.",
+        "latency_seconds": 21.491515636444092,
+        "timestamp": "2025-12-09T09:29:26.332479"
+    },
+    {
+        "experiment_name": "Pos: 30%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.7942",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.30000000000000004,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What impact does self attribution bias have on mental effort for evaluating successes?",
+                "question_similarity": 0.7942
+            }
+        },
+        "response": "Self attribution bias reduces the mental effort required to evaluate successes.",
+        "latency_seconds": 17.309935331344604,
+        "timestamp": "2025-12-09T09:30:05.675419"
+    },
+    {
+        "experiment_name": "Pos: 40%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.4,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "What findings did repeated tallies provide about how steady things were?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "Repeated tallies showed that the outcomes were steady and independent of one another.",
+        "latency_seconds": 14.543285131454468,
+        "timestamp": "2025-12-09T09:30:42.245016"
+    },
+    {
+        "experiment_name": "Pos: 40%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.4",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.4,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "What did the researchers use from each run to judge how steady the options were?",
+                "question_similarity": 0.4
+            }
+        },
+        "response": "They used the per-run totals for each option.",
+        "latency_seconds": 3.4549942016601562,
+        "timestamp": "2025-12-09T09:31:07.744412"
+    },
+    {
+        "experiment_name": "Pos: 40%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.6",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.4,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "How did per-run totals point to the option with the steadiest outcomes?",
+                "question_similarity": 0.6
+            }
+        },
+        "response": "Per-run totals were used to measure the stability of each option\u2019s outcomes; the option whose totals varied the least across runs was identified as the steadiest.",
+        "latency_seconds": 26.06718134880066,
+        "timestamp": "2025-12-09T09:31:55.838259"
+    },
+    {
+        "experiment_name": "Pos: 40%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.8",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.4,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "How were the per run totals used to check for stable results?",
+                "question_similarity": 0.8
+            }
+        },
+        "response": "The per-run totals were used to check for stable results by measuring each option's performance across runs and identifying which option yielded the most consistent (stable) outcomes.",
+        "latency_seconds": 19.510680198669434,
+        "timestamp": "2025-12-09T09:32:37.382043"
+    },
+    {
+        "experiment_name": "Pos: 40%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.1914",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.4,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "How does what is seen first translate into a measurable shift downstream?",
+                "question_similarity": 0.1914
+            }
+        },
+        "response": "The anchoring effect shows that the first piece of information (the anchor) measurably shifts later judgments\u2014even when the anchor is arbitrary.",
+        "latency_seconds": 21.689698934555054,
+        "timestamp": "2025-12-09T09:33:21.102068"
+    },
+    {
+        "experiment_name": "Pos: 40%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.4014",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.4,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "How does a first\u2011seen detail become the reference in later evaluation?",
+                "question_similarity": 0.4014
+            }
+        },
+        "response": "The first-seen detail becomes the reference in later evaluation through the anchoring effect, where initial information sets a mental benchmark that subsequent judgments adjust from, often insufficiently.",
+        "latency_seconds": 16.233083248138428,
+        "timestamp": "2025-12-09T09:33:59.368631"
+    },
+    {
+        "experiment_name": "Pos: 40%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.6086",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.4,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "What findings related to the single feature first noticed were measured?",
+                "question_similarity": 0.6086
+            }
+        },
+        "response": "The study measured how marking the single feature first noticed changed option choice in later tasks.",
+        "latency_seconds": 22.98969340324402,
+        "timestamp": "2025-12-09T09:34:44.391022"
+    },
+    {
+        "experiment_name": "Pos: 40%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.8017",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.4,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "How did the study measure the way that mark changed option choice in later tasks?",
+                "question_similarity": 0.8017
+            }
+        },
+        "response": "The study measured how the mark changed option choice in later tasks by tracking whether participants altered their selections after the initial mark was made.",
+        "latency_seconds": 18.800742387771606,
+        "timestamp": "2025-12-09T09:35:25.227159"
+    },
+    {
+        "experiment_name": "Pos: 40%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.2115",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.4,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "How is tracking old bugs useful for new related jobs?",
+                "question_similarity": 0.2115
+            }
+        },
+        "response": "Tracking old bugs helps filter out superfluous things by identifying and eliminating already-known issues, ensuring only relevant, unresolved problems are addressed in new related jobs.",
+        "latency_seconds": 24.61566162109375,
+        "timestamp": "2025-12-09T09:36:11.880059"
+    },
+    {
+        "experiment_name": "Pos: 40%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.424114",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.4,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "How does keeping a log of prior faults aid future work?",
+                "question_similarity": 0.424114
+            }
+        },
+        "response": "It helps you avoid repeating the same mistakes by giving you a concrete record of what went wrong before.",
+        "latency_seconds": 23.288243770599365,
+        "timestamp": "2025-12-09T09:36:57.194863"
+    },
+    {
+        "experiment_name": "Pos: 40%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.5959",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.4,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What benefit comes from describing what went wrong for future tasks? ",
+                "question_similarity": 0.5959
+            }
+        },
+        "response": "Writing a short account of what went wrong reduces repeat errors in later, similar tasks.",
+        "latency_seconds": 34.42196750640869,
+        "timestamp": "2025-12-09T09:37:53.655051"
+    },
+    {
+        "experiment_name": "Pos: 40%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.8037",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.4,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What do studies show happens when participants write a short account of what went wrong?",
+                "question_similarity": 0.8037
+            }
+        },
+        "response": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+        "latency_seconds": 49.74871778488159,
+        "timestamp": "2025-12-09T09:39:05.544777"
+    },
+    {
+        "experiment_name": "Pos: 40%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.1999",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.4,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What makes a victory mentally cheaper?",
+                "question_similarity": 0.1999
+            }
+        },
+        "response": "A victory is mentally cheaper when it is framed as a gain rather than a loss.",
+        "latency_seconds": 16.445215702056885,
+        "timestamp": "2025-12-09T09:39:44.019840"
+    },
+    {
+        "experiment_name": "Pos: 40%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.4018",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.4,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "Does attributing good results to ability lower mental demand?",
+                "question_similarity": 0.4018
+            }
+        },
+        "response": "No.",
+        "latency_seconds": 16.10171413421631,
+        "timestamp": "2025-12-09T09:40:22.149593"
+    },
+    {
+        "experiment_name": "Pos: 40%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.6092",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.4,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What effect does a favorable self\u2011judgment have on the depth of cognitive processing in a task?",
+                "question_similarity": 0.6092
+            }
+        },
+        "response": "A favorable self-judgment leads to shallower cognitive processing.",
+        "latency_seconds": 13.804183959960938,
+        "timestamp": "2025-12-09T09:40:57.982194"
+    },
+    {
+        "experiment_name": "Pos: 40%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.7942",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.4,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What impact does self attribution bias have on mental effort for evaluating successes?",
+                "question_similarity": 0.7942
+            }
+        },
+        "response": "Self-attribution bias reduces the mental effort required to evaluate successes.",
+        "latency_seconds": 16.384886264801025,
+        "timestamp": "2025-12-09T09:41:36.396276"
+    },
+    {
+        "experiment_name": "Pos: 50%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.5,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "What findings did repeated tallies provide about how steady things were?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "Repeated tallies showed that the outcomes of both field-goal and free-throw attempts are independent of each other\u2014no \u201chot hand\u201d streak exists.",
+        "latency_seconds": 15.720996141433716,
+        "timestamp": "2025-12-09T09:42:14.142215"
+    },
+    {
+        "experiment_name": "Pos: 50%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.4",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.5,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "What did the researchers use from each run to judge how steady the options were?",
+                "question_similarity": 0.4
+            }
+        },
+        "response": "They used the per-run totals for each option.",
+        "latency_seconds": 21.8358952999115,
+        "timestamp": "2025-12-09T09:42:58.002277"
+    },
+    {
+        "experiment_name": "Pos: 50%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.6",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.5,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "How did per-run totals point to the option with the steadiest outcomes?",
+                "question_similarity": 0.6
+            }
+        },
+        "response": "Per-run totals were used to compare the stability of each option\u2019s outcomes; the option whose totals varied least across runs was judged the steadiest.",
+        "latency_seconds": 34.542688846588135,
+        "timestamp": "2025-12-09T09:43:54.606689"
+    },
+    {
+        "experiment_name": "Pos: 50%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.8",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.5,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "How were the per run totals used to check for stable results?",
+                "question_similarity": 0.8
+            }
+        },
+        "response": "The per-run totals were used to check for stable results by measuring the totals for each option and then determining which option yielded the most consistent (stable) outcomes.",
+        "latency_seconds": 48.967891693115234,
+        "timestamp": "2025-12-09T09:45:05.604057"
+    },
+    {
+        "experiment_name": "Pos: 50%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.1914",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.5,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "How does what is seen first translate into a measurable shift downstream?",
+                "question_similarity": 0.1914
+            }
+        },
+        "response": "The first thing seen acts as an anchor; every later judgment is measured against that initial value, producing a measurable shift in the final estimate.",
+        "latency_seconds": 15.65089750289917,
+        "timestamp": "2025-12-09T09:45:43.286527"
+    },
+    {
+        "experiment_name": "Pos: 50%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.4014",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.5,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "How does a first\u2011seen detail become the reference in later evaluation?",
+                "question_similarity": 0.4014
+            }
+        },
+        "response": "It becomes the anchor: the initial detail is automatically adopted as the reference point, and subsequent judgments are adjusted (insufficiently) from that first value.",
+        "latency_seconds": 17.392951250076294,
+        "timestamp": "2025-12-09T09:46:22.711146"
+    },
+    {
+        "experiment_name": "Pos: 50%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.6086",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.5,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "What findings related to the single feature first noticed were measured?",
+                "question_similarity": 0.6086
+            }
+        },
+        "response": "The study measured how the first feature participants noticed changed their later option choices.",
+        "latency_seconds": 8.030375957489014,
+        "timestamp": "2025-12-09T09:46:52.764954"
+    },
+    {
+        "experiment_name": "Pos: 50%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.8017",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.5,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "How did the study measure the way that mark changed option choice in later tasks?",
+                "question_similarity": 0.8017
+            }
+        },
+        "response": "The study measured how the mark changed option choice by asking participants to mark the single feature they first noticed and then observing how that mark influenced their later option choices.",
+        "latency_seconds": 17.460089445114136,
+        "timestamp": "2025-12-09T09:47:32.256244"
+    },
+    {
+        "experiment_name": "Pos: 50%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.2115",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.5,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "How is tracking old bugs useful for new related jobs?",
+                "question_similarity": 0.2115
+            }
+        },
+        "response": "Tracking old bugs helps filter out superfluous things by identifying patterns or recurring issues, making it easier to recognize and avoid similar unnecessary elements in new related jobs.",
+        "latency_seconds": 18.814530849456787,
+        "timestamp": "2025-12-09T09:48:13.099801"
+    },
+    {
+        "experiment_name": "Pos: 50%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.424114",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.5,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "How does keeping a log of prior faults aid future work?",
+                "question_similarity": 0.424114
+            }
+        },
+        "response": "Keeping a log of prior faults helps future work by providing a record of past errors, allowing individuals to learn from mistakes and avoid repeating them in similar situations.",
+        "latency_seconds": 22.704715251922607,
+        "timestamp": "2025-12-09T09:48:57.828856"
+    },
+    {
+        "experiment_name": "Pos: 50%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.5959",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.5,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What benefit comes from describing what went wrong for future tasks? ",
+                "question_similarity": 0.5959
+            }
+        },
+        "response": "Writing a short account of what went wrong reduces repeat errors in later, similar decisions.",
+        "latency_seconds": 20.425386905670166,
+        "timestamp": "2025-12-09T09:49:40.279259"
+    },
+    {
+        "experiment_name": "Pos: 50%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.8037",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.5,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What do studies show happens when participants write a short account of what went wrong?",
+                "question_similarity": 0.8037
+            }
+        },
+        "response": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+        "latency_seconds": 18.41067099571228,
+        "timestamp": "2025-12-09T09:50:20.727994"
+    },
+    {
+        "experiment_name": "Pos: 50%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.1999",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.5,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What makes a victory mentally cheaper?",
+                "question_similarity": 0.1999
+            }
+        },
+        "response": "A pyrrhic victory is mentally cheaper because the cost of winning outweighs the benefit, leaving the victor worse off despite the win.",
+        "latency_seconds": 18.813280820846558,
+        "timestamp": "2025-12-09T09:51:01.564907"
+    },
+    {
+        "experiment_name": "Pos: 50%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.4018",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.5,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "Does attributing good results to ability lower mental demand?",
+                "question_similarity": 0.4018
+            }
+        },
+        "response": "No.",
+        "latency_seconds": 16.98501467704773,
+        "timestamp": "2025-12-09T09:51:40.574644"
+    },
+    {
+        "experiment_name": "Pos: 50%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.6092",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.5,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What effect does a favorable self\u2011judgment have on the depth of cognitive processing in a task?",
+                "question_similarity": 0.6092
+            }
+        },
+        "response": "A favorable self-judgment leads to shallower cognitive processing.",
+        "latency_seconds": 13.350253820419312,
+        "timestamp": "2025-12-09T09:52:15.949213"
+    },
+    {
+        "experiment_name": "Pos: 50%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.7942",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.5,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What impact does self attribution bias have on mental effort for evaluating successes?",
+                "question_similarity": 0.7942
+            }
+        },
+        "response": "Self-attribution bias reduces the mental effort required to evaluate successes.",
+        "latency_seconds": 16.60933017730713,
+        "timestamp": "2025-12-09T09:52:54.584201"
+    },
+    {
+        "experiment_name": "Pos: 60%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.6000000000000001,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "What findings did repeated tallies provide about how steady things were?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "Repeated tallies showed that the outcomes of both field-goal and free-throw attempts are independent of each other, indicating no evidence of a \u201chot hand\u201d streak.",
+        "latency_seconds": 16.87948727607727,
+        "timestamp": "2025-12-09T09:53:33.493173"
+    },
+    {
+        "experiment_name": "Pos: 60%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.4",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.6000000000000001,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "What did the researchers use from each run to judge how steady the options were?",
+                "question_similarity": 0.4
+            }
+        },
+        "response": "They used the per-run totals.",
+        "latency_seconds": 13.634593963623047,
+        "timestamp": "2025-12-09T09:54:09.151914"
+    },
+    {
+        "experiment_name": "Pos: 60%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.6",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.6000000000000001,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "How did per-run totals point to the option with the steadiest outcomes?",
+                "question_similarity": 0.6
+            }
+        },
+        "response": "Per-run totals were used to measure how consistently each option performed across repeated trials; the option whose totals varied the least was identified as the steadiest.",
+        "latency_seconds": 15.552207231521606,
+        "timestamp": "2025-12-09T09:54:46.727802"
+    },
+    {
+        "experiment_name": "Pos: 60%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.8",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.6000000000000001,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "How were the per run totals used to check for stable results?",
+                "question_similarity": 0.8
+            }
+        },
+        "response": "The per-run totals were used to check for stable results by measuring each option's total per run and then identifying which option yielded the most consistent (stable) outcomes.",
+        "latency_seconds": 15.139357328414917,
+        "timestamp": "2025-12-09T09:55:23.893600"
+    },
+    {
+        "experiment_name": "Pos: 60%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.1914",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.6000000000000001,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "How does what is seen first translate into a measurable shift downstream?",
+                "question_similarity": 0.1914
+            }
+        },
+        "response": "The first thing seen acts as an anchor; every later judgment is measured against that initial value, producing a measurable shift in the final estimate.",
+        "latency_seconds": 14.966873168945312,
+        "timestamp": "2025-12-09T09:56:00.884565"
+    },
+    {
+        "experiment_name": "Pos: 60%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.4014",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.6000000000000001,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "How does a first\u2011seen detail become the reference in later evaluation?",
+                "question_similarity": 0.4014
+            }
+        },
+        "response": "The first-seen detail becomes the reference in later evaluation through the anchoring effect, where initial information sets a mental benchmark that subsequent judgments adjust from.",
+        "latency_seconds": 9.912469387054443,
+        "timestamp": "2025-12-09T09:56:32.826840"
+    },
+    {
+        "experiment_name": "Pos: 60%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.6086",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.6000000000000001,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "What findings related to the single feature first noticed were measured?",
+                "question_similarity": 0.6086
+            }
+        },
+        "response": "The study measured how the single feature first noticed influenced later option choices in subsequent tasks.",
+        "latency_seconds": 16.632938861846924,
+        "timestamp": "2025-12-09T09:57:11.482813"
+    },
+    {
+        "experiment_name": "Pos: 60%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.8017",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.6000000000000001,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "How did the study measure the way that mark changed option choice in later tasks?",
+                "question_similarity": 0.8017
+            }
+        },
+        "response": "The study measured how the mark changed option choice by asking people to indicate the first feature they noticed and then tracking whether that initial mark influenced their later choices across subsequent tasks.",
+        "latency_seconds": 19.361143827438354,
+        "timestamp": "2025-12-09T09:57:52.871051"
+    },
+    {
+        "experiment_name": "Pos: 60%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.2115",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.6000000000000001,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "How is tracking old bugs useful for new related jobs?",
+                "question_similarity": 0.2115
+            }
+        },
+        "response": "Tracking old bugs helps filter out superfluous things by identifying and eliminating previously encountered issues, making new related jobs more efficient.",
+        "latency_seconds": 17.02521252632141,
+        "timestamp": "2025-12-09T09:58:31.921039"
+    },
+    {
+        "experiment_name": "Pos: 60%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.424114",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.6000000000000001,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "How does keeping a log of prior faults aid future work?",
+                "question_similarity": 0.424114
+            }
+        },
+        "response": "It helps by providing a record of past errors, allowing future work to avoid repeating the same mistakes.",
+        "latency_seconds": 16.329169750213623,
+        "timestamp": "2025-12-09T09:59:10.279707"
+    },
+    {
+        "experiment_name": "Pos: 60%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.5959",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.6000000000000001,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What benefit comes from describing what went wrong for future tasks? ",
+                "question_similarity": 0.5959
+            }
+        },
+        "response": "Writing a short account of what went wrong reduces repeat errors in later, similar tasks.",
+        "latency_seconds": 15.566842794418335,
+        "timestamp": "2025-12-09T09:59:47.876100"
+    },
+    {
+        "experiment_name": "Pos: 60%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.8037",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.6000000000000001,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What do studies show happens when participants write a short account of what went wrong?",
+                "question_similarity": 0.8037
+            }
+        },
+        "response": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+        "latency_seconds": 15.694673538208008,
+        "timestamp": "2025-12-09T10:00:25.605146"
+    },
+    {
+        "experiment_name": "Pos: 60%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.1999",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.6000000000000001,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What makes a victory mentally cheaper?",
+                "question_similarity": 0.1999
+            }
+        },
+        "response": "A pyrrhic victory is mentally cheaper because the cost of winning outweighs the benefit, making the win feel hollow or not worth the effort.",
+        "latency_seconds": 16.99892497062683,
+        "timestamp": "2025-12-09T10:01:04.639755"
+    },
+    {
+        "experiment_name": "Pos: 60%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.4018",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.6000000000000001,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "Does attributing good results to ability lower mental demand?",
+                "question_similarity": 0.4018
+            }
+        },
+        "response": "No.",
+        "latency_seconds": 16.73485541343689,
+        "timestamp": "2025-12-09T10:01:43.407868"
+    },
+    {
+        "experiment_name": "Pos: 60%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.6092",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.6000000000000001,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What effect does a favorable self\u2011judgment have on the depth of cognitive processing in a task?",
+                "question_similarity": 0.6092
+            }
+        },
+        "response": "A favorable self-judgment leads to shallower cognitive processing.",
+        "latency_seconds": 14.683191299438477,
+        "timestamp": "2025-12-09T10:02:20.118052"
+    },
+    {
+        "experiment_name": "Pos: 60%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.7942",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.6000000000000001,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What impact does self attribution bias have on mental effort for evaluating successes?",
+                "question_similarity": 0.7942
+            }
+        },
+        "response": "Self-attribution bias reduces the mental effort required to evaluate successes.",
+        "latency_seconds": 10.45964241027832,
+        "timestamp": "2025-12-09T10:02:52.602408"
+    },
+    {
+        "experiment_name": "Pos: 70%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.7000000000000001,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "What findings did repeated tallies provide about how steady things were?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "Repeated tallies showed that the dot of light was perceived as moving a consistent amount for each individual over time, indicating steady, stable judgments.",
+        "latency_seconds": 14.67554235458374,
+        "timestamp": "2025-12-09T10:03:29.301372"
+    },
+    {
+        "experiment_name": "Pos: 70%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.4",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.7000000000000001,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "What did the researchers use from each run to judge how steady the options were?",
+                "question_similarity": 0.4
+            }
+        },
+        "response": "They used the per-run totals for each option.",
+        "latency_seconds": 15.626349210739136,
+        "timestamp": "2025-12-09T10:04:06.952986"
+    },
+    {
+        "experiment_name": "Pos: 70%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.6",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.7000000000000001,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "How did per-run totals point to the option with the steadiest outcomes?",
+                "question_similarity": 0.6
+            }
+        },
+        "response": "Per-run totals showed that one option produced the most stable results across trials, indicating it had the steadiest outcomes.",
+        "latency_seconds": 14.100912809371948,
+        "timestamp": "2025-12-09T10:04:43.078633"
+    },
+    {
+        "experiment_name": "Pos: 70%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.8",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.7000000000000001,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "How were the per run totals used to check for stable results?",
+                "question_similarity": 0.8
+            }
+        },
+        "response": "The per run totals were used to check for stable results by comparing the totals across different options to see which one yielded the most consistent outcomes.",
+        "latency_seconds": 17.471375465393066,
+        "timestamp": "2025-12-09T10:05:22.574981"
+    },
+    {
+        "experiment_name": "Pos: 70%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.1914",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.7000000000000001,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "How does what is seen first translate into a measurable shift downstream?",
+                "question_similarity": 0.1914
+            }
+        },
+        "response": "The anchoring effect shows that the first piece of information (the anchor) biases later judgments. Even when the anchor is arbitrary or irrelevant, it measurably shifts estimates, choices, and valuations downstream.",
+        "latency_seconds": 16.637364387512207,
+        "timestamp": "2025-12-09T10:06:01.246535"
+    },
+    {
+        "experiment_name": "Pos: 70%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.4014",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.7000000000000001,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "How does a first\u2011seen detail become the reference in later evaluation?",
+                "question_similarity": 0.4014
+            }
+        },
+        "response": "The first-seen detail becomes the reference in later evaluation through the anchoring effect, where initial information sets a mental reference point that influences subsequent judgments.",
+        "latency_seconds": 17.415313720703125,
+        "timestamp": "2025-12-09T10:06:40.690566"
+    },
+    {
+        "experiment_name": "Pos: 70%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.6086",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.7000000000000001,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "What findings related to the single feature first noticed were measured?",
+                "question_similarity": 0.6086
+            }
+        },
+        "response": "The study measured how marking the single feature first noticed changed later option choices.",
+        "latency_seconds": 15.347821712493896,
+        "timestamp": "2025-12-09T10:07:18.068701"
+    },
+    {
+        "experiment_name": "Pos: 70%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.8017",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.7000000000000001,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "How did the study measure the way that mark changed option choice in later tasks?",
+                "question_similarity": 0.8017
+            }
+        },
+        "response": "The study measured how the mark changed option choice by asking participants to mark the single feature they first noticed, then later observing how that mark influenced their option choice in subsequent tasks.",
+        "latency_seconds": 16.22312831878662,
+        "timestamp": "2025-12-09T10:07:56.327305"
+    },
+    {
+        "experiment_name": "Pos: 70%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.2115",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.7000000000000001,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "How is tracking old bugs useful for new related jobs?",
+                "question_similarity": 0.2115
+            }
+        },
+        "response": "Tracking old bugs helps identify recurring patterns or root causes, making it faster to diagnose and fix similar issues in new related jobs.",
+        "latency_seconds": 17.348199367523193,
+        "timestamp": "2025-12-09T10:08:35.704232"
+    },
+    {
+        "experiment_name": "Pos: 70%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.424114",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.7000000000000001,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "How does keeping a log of prior faults aid future work?",
+                "question_similarity": 0.424114
+            }
+        },
+        "response": "Keeping a log of prior faults helps future work by providing a record of past issues, allowing teams to identify patterns, avoid repeating mistakes, and improve processes based on historical data.",
+        "latency_seconds": 22.026983499526978,
+        "timestamp": "2025-12-09T10:09:19.757352"
+    },
+    {
+        "experiment_name": "Pos: 70%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.5959",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.7000000000000001,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What benefit comes from describing what went wrong for future tasks? ",
+                "question_similarity": 0.5959
+            }
+        },
+        "response": "It helps reduce repeat errors in later, similar decisions.",
+        "latency_seconds": 14.828876495361328,
+        "timestamp": "2025-12-09T10:09:56.612949"
+    },
+    {
+        "experiment_name": "Pos: 70%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.8037",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.7000000000000001,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What do studies show happens when participants write a short account of what went wrong?",
+                "question_similarity": 0.8037
+            }
+        },
+        "response": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+        "latency_seconds": 16.335979223251343,
+        "timestamp": "2025-12-09T10:10:34.974679"
+    },
+    {
+        "experiment_name": "Pos: 70%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.1999",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.7000000000000001,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What makes a victory mentally cheaper?",
+                "question_similarity": 0.1999
+            }
+        },
+        "response": "A pyrrhic victory.",
+        "latency_seconds": 14.276329040527344,
+        "timestamp": "2025-12-09T10:11:11.283651"
+    },
+    {
+        "experiment_name": "Pos: 70%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.4018",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.7000000000000001,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "Does attributing good results to ability lower mental demand?",
+                "question_similarity": 0.4018
+            }
+        },
+        "response": "No.",
+        "latency_seconds": 14.453397989273071,
+        "timestamp": "2025-12-09T10:11:47.762021"
+    },
+    {
+        "experiment_name": "Pos: 70%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.6092",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.7000000000000001,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What effect does a favorable self\u2011judgment have on the depth of cognitive processing in a task?",
+                "question_similarity": 0.6092
+            }
+        },
+        "response": "A favorable self-judgment leads to shallower cognitive processing in a task.",
+        "latency_seconds": 14.447583436965942,
+        "timestamp": "2025-12-09T10:12:24.236891"
+    },
+    {
+        "experiment_name": "Pos: 70%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.7942",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.7000000000000001,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What impact does self attribution bias have on mental effort for evaluating successes?",
+                "question_similarity": 0.7942
+            }
+        },
+        "response": "Self-attribution bias reduces the mental effort required to evaluate successes.",
+        "latency_seconds": 14.265353679656982,
+        "timestamp": "2025-12-09T10:13:00.531354"
+    },
+    {
+        "experiment_name": "Pos: 80%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.8,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "What findings did repeated tallies provide about how steady things were?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "Repeated tallies showed that the dot of light appeared to move a steady, consistent amount for each individual over time.",
+        "latency_seconds": 15.007331848144531,
+        "timestamp": "2025-12-09T10:13:37.564739"
+    },
+    {
+        "experiment_name": "Pos: 80%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.4",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.8,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "What did the researchers use from each run to judge how steady the options were?",
+                "question_similarity": 0.4
+            }
+        },
+        "response": "They used the per-run totals for each option.",
+        "latency_seconds": 14.30129623413086,
+        "timestamp": "2025-12-09T10:14:13.895927"
+    },
+    {
+        "experiment_name": "Pos: 80%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.6",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.8,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "How did per-run totals point to the option with the steadiest outcomes?",
+                "question_similarity": 0.6
+            }
+        },
+        "response": "Per-run totals were used to measure the stability of results for each option; the option whose per-run totals varied the least across runs was identified as having the steadiest outcomes.",
+        "latency_seconds": 13.722176790237427,
+        "timestamp": "2025-12-09T10:14:49.642222"
+    },
+    {
+        "experiment_name": "Pos: 80%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.8",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.8,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "How were the per run totals used to check for stable results?",
+                "question_similarity": 0.8
+            }
+        },
+        "response": "The per-run totals for each option were calculated and then compared to determine which option yielded the most stable results.",
+        "latency_seconds": 26.73077368736267,
+        "timestamp": "2025-12-09T10:15:38.399746"
+    },
+    {
+        "experiment_name": "Pos: 80%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.1914",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.8,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "How does what is seen first translate into a measurable shift downstream?",
+                "question_similarity": 0.1914
+            }
+        },
+        "response": "The anchoring effect shows that the first piece of information (the \"anchor\") biases later judgments\u2014even when it's arbitrary. For example, seeing a high price first makes subsequent prices seem lower, shifting willingness-to-pay downstream.",
+        "latency_seconds": 16.185150384902954,
+        "timestamp": "2025-12-09T10:16:16.616302"
+    },
+    {
+        "experiment_name": "Pos: 80%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.4014",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.8,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "How does a first\u2011seen detail become the reference in later evaluation?",
+                "question_similarity": 0.4014
+            }
+        },
+        "response": "The first-seen detail becomes the reference in later evaluation through the anchoring effect, where initial information sets a mental benchmark that subsequent judgments adjust from, often insufficiently.",
+        "latency_seconds": 16.136521339416504,
+        "timestamp": "2025-12-09T10:16:54.786463"
+    },
+    {
+        "experiment_name": "Pos: 80%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.6086",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.8,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "What findings related to the single feature first noticed were measured?",
+                "question_similarity": 0.6086
+            }
+        },
+        "response": "The study measured how the first feature a person noticed changed their later choice between options.",
+        "latency_seconds": 39.53300452232361,
+        "timestamp": "2025-12-09T10:17:56.346486"
+    },
+    {
+        "experiment_name": "Pos: 80%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.8017",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.8,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "How did the study measure the way that mark changed option choice in later tasks?",
+                "question_similarity": 0.8017
+            }
+        },
+        "response": "The study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks.",
+        "latency_seconds": 17.22339963912964,
+        "timestamp": "2025-12-09T10:18:35.602720"
+    },
+    {
+        "experiment_name": "Pos: 80%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.2115",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.8,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "How is tracking old bugs useful for new related jobs?",
+                "question_similarity": 0.2115
+            }
+        },
+        "response": "Tracking old bugs helps filter out superfluous things by identifying and eliminating previously encountered issues, making new related jobs more efficient.",
+        "latency_seconds": 17.915502071380615,
+        "timestamp": "2025-12-09T10:19:15.550121"
+    },
+    {
+        "experiment_name": "Pos: 80%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.424114",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.8,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "How does keeping a log of prior faults aid future work?",
+                "question_similarity": 0.424114
+            }
+        },
+        "response": "It helps by providing a record to learn from, reducing repeat errors in later, similar tasks.",
+        "latency_seconds": 15.86504602432251,
+        "timestamp": "2025-12-09T10:19:53.451435"
+    },
+    {
+        "experiment_name": "Pos: 80%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.5959",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.8,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What benefit comes from describing what went wrong for future tasks? ",
+                "question_similarity": 0.5959
+            }
+        },
+        "response": "Describing what went wrong helps reduce the planning fallacy in future tasks.",
+        "latency_seconds": 17.05739712715149,
+        "timestamp": "2025-12-09T10:20:32.536979"
+    },
+    {
+        "experiment_name": "Pos: 80%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.8037",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.8,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What do studies show happens when participants write a short account of what went wrong?",
+                "question_similarity": 0.8037
+            }
+        },
+        "response": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+        "latency_seconds": 19.535143852233887,
+        "timestamp": "2025-12-09T10:21:14.106848"
+    },
+    {
+        "experiment_name": "Pos: 80%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.1999",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.8,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What makes a victory mentally cheaper?",
+                "question_similarity": 0.1999
+            }
+        },
+        "response": "A pyrrhic victory is mentally cheaper because the win is achieved at such a high cost that it feels hollow or damaging, making the victory feel less valuable or satisfying.",
+        "latency_seconds": 18.558637380599976,
+        "timestamp": "2025-12-09T10:21:54.688365"
+    },
+    {
+        "experiment_name": "Pos: 80%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.4018",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.8,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "Does attributing good results to ability lower mental demand?",
+                "question_similarity": 0.4018
+            }
+        },
+        "response": "No.",
+        "latency_seconds": 14.6993088722229,
+        "timestamp": "2025-12-09T10:22:31.414724"
+    },
+    {
+        "experiment_name": "Pos: 80%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.6092",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.8,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What effect does a favorable self\u2011judgment have on the depth of cognitive processing in a task?",
+                "question_similarity": 0.6092
+            }
+        },
+        "response": "A favorable self-judgment leads to shallower cognitive processing.",
+        "latency_seconds": 15.07281494140625,
+        "timestamp": "2025-12-09T10:23:08.510726"
+    },
+    {
+        "experiment_name": "Pos: 80%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.7942",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.8,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What impact does self attribution bias have on mental effort for evaluating successes?",
+                "question_similarity": 0.7942
+            }
+        },
+        "response": "Self-attribution bias reduces the mental effort required to evaluate successes by leading individuals to attribute positive outcomes to their own abilities and efforts, rather than engaging in deeper analysis of external factors.",
+        "latency_seconds": 15.076191902160645,
+        "timestamp": "2025-12-09T10:23:45.614588"
+    },
+    {
+        "experiment_name": "Pos: 90%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.9,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "What findings did repeated tallies provide about how steady things were?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "Repeated tallies showed that the outcomes of both field-goal and free-throw attempts were independent of each other, indicating no \u201chot hand\u201d streakiness.",
+        "latency_seconds": 323.60701751708984,
+        "timestamp": "2025-12-09T10:29:31.251181"
+    },
+    {
+        "experiment_name": "Pos: 90%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.4",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.9,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "What did the researchers use from each run to judge how steady the options were?",
+                "question_similarity": 0.4
+            }
+        },
+        "response": "They used the per-run totals for each option.",
+        "latency_seconds": 14.859384775161743,
+        "timestamp": "2025-12-09T10:30:08.144036"
+    },
+    {
+        "experiment_name": "Pos: 90%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.6",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.9,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "How did per-run totals point to the option with the steadiest outcomes?",
+                "question_similarity": 0.6
+            }
+        },
+        "response": "Per-run totals showed that the option yielding the most stable results was the one whose totals varied least from run to run.",
+        "latency_seconds": 14.718406438827515,
+        "timestamp": "2025-12-09T10:30:44.892296"
+    },
+    {
+        "experiment_name": "Pos: 90%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.8",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 0.9,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "How were the per run totals used to check for stable results?",
+                "question_similarity": 0.8
+            }
+        },
+        "response": "The per run totals were used to check for stable results by measuring the frequency of each option and determining which option yielded the most consistent outcomes across runs.",
+        "latency_seconds": 11.097432136535645,
+        "timestamp": "2025-12-09T10:31:18.023674"
+    },
+    {
+        "experiment_name": "Pos: 90%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.1914",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.9,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "How does what is seen first translate into a measurable shift downstream?",
+                "question_similarity": 0.1914
+            }
+        },
+        "response": "The initial anchor (what is seen first) measurably shifts downstream judgments by biasing subsequent numeric estimates toward that first value; experiments show this anchoring effect persists even when the anchor is arbitrary and unrelated to the target quantity.",
+        "latency_seconds": 17.276938438415527,
+        "timestamp": "2025-12-09T10:31:57.332248"
+    },
+    {
+        "experiment_name": "Pos: 90%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.4014",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.9,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "How does a first\u2011seen detail become the reference in later evaluation?",
+                "question_similarity": 0.4014
+            }
+        },
+        "response": "The first-seen detail is used as an anchor; subsequent judgments are adjusted relative to that initial reference point.",
+        "latency_seconds": 16.25207018852234,
+        "timestamp": "2025-12-09T10:32:35.609104"
+    },
+    {
+        "experiment_name": "Pos: 90%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.6086",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.9,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "What findings related to the single feature first noticed were measured?",
+                "question_similarity": 0.6086
+            }
+        },
+        "response": "The study measured how the single feature first noticed changed option choice in later tasks.",
+        "latency_seconds": 16.270260095596313,
+        "timestamp": "2025-12-09T10:33:13.911488"
+    },
+    {
+        "experiment_name": "Pos: 90%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.8017",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 0.9,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "How did the study measure the way that mark changed option choice in later tasks?",
+                "question_similarity": 0.8017
+            }
+        },
+        "response": "The study measured how the mark changed option choice by having participants first mark the single feature they noticed, then later complete tasks where they chose between options; the change in their choices was compared to see if the initially noticed mark biased later selections.",
+        "latency_seconds": 329.4701726436615,
+        "timestamp": "2025-12-09T10:39:05.410443"
+    },
+    {
+        "experiment_name": "Pos: 90%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.2115",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.9,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "How is tracking old bugs useful for new related jobs?",
+                "question_similarity": 0.2115
+            }
+        },
+        "response": "Tracking old bugs helps filter out superfluous things by identifying and avoiding previously encountered issues, making new related jobs more efficient.",
+        "latency_seconds": 17.56322717666626,
+        "timestamp": "2025-12-09T10:39:45.010032"
+    },
+    {
+        "experiment_name": "Pos: 90%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.424114",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.9,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "How does keeping a log of prior faults aid future work?",
+                "question_similarity": 0.424114
+            }
+        },
+        "response": "It helps by providing a record of past errors, allowing future work to avoid repeating the same mistakes.",
+        "latency_seconds": 15.323172569274902,
+        "timestamp": "2025-12-09T10:40:22.361320"
+    },
+    {
+        "experiment_name": "Pos: 90%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.5959",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.9,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What benefit comes from describing what went wrong for future tasks? ",
+                "question_similarity": 0.5959
+            }
+        },
+        "response": "Describing what went wrong helps reduce the planning fallacy by making future time and effort estimates more realistic.",
+        "latency_seconds": 14.402499437332153,
+        "timestamp": "2025-12-09T10:40:58.794482"
+    },
+    {
+        "experiment_name": "Pos: 90%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.8037",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 0.9,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What do studies show happens when participants write a short account of what went wrong?",
+                "question_similarity": 0.8037
+            }
+        },
+        "response": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+        "latency_seconds": 9.818316221237183,
+        "timestamp": "2025-12-09T10:41:30.638630"
+    },
+    {
+        "experiment_name": "Pos: 90%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.1999",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.9,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What makes a victory mentally cheaper?",
+                "question_similarity": 0.1999
+            }
+        },
+        "response": "A victory is mentally cheaper when it is achieved through the positional style of play, which focuses on creating a predisposition to future development rather than forcing a specific outcome.",
+        "latency_seconds": 17.98611068725586,
+        "timestamp": "2025-12-09T10:42:10.658455"
+    },
+    {
+        "experiment_name": "Pos: 90%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.4018",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.9,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "Does attributing good results to ability lower mental demand?",
+                "question_similarity": 0.4018
+            }
+        },
+        "response": "No.",
+        "latency_seconds": 15.529447078704834,
+        "timestamp": "2025-12-09T10:42:48.222540"
+    },
+    {
+        "experiment_name": "Pos: 90%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.6092",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.9,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What effect does a favorable self\u2011judgment have on the depth of cognitive processing in a task?",
+                "question_similarity": 0.6092
+            }
+        },
+        "response": "A favorable self-judgment leads to shallower cognitive processing.",
+        "latency_seconds": 16.366023778915405,
+        "timestamp": "2025-12-09T10:43:26.624354"
+    },
+    {
+        "experiment_name": "Pos: 90%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.7942",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.9,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What impact does self attribution bias have on mental effort for evaluating successes?",
+                "question_similarity": 0.7942
+            }
+        },
+        "response": "Self-attribution bias reduces the mental effort required to evaluate successes.",
+        "latency_seconds": 20.81264328956604,
+        "timestamp": "2025-12-09T10:44:09.475367"
+    },
+    {
+        "experiment_name": "Pos: 100%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 1.0,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "What findings did repeated tallies provide about how steady things were?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "Repeated tallies showed that the results were stable across runs.",
+        "latency_seconds": 20.839781999588013,
+        "timestamp": "2025-12-09T10:44:52.346700"
+    },
+    {
+        "experiment_name": "Pos: 100%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.4",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 1.0,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "What did the researchers use from each run to judge how steady the options were?",
+                "question_similarity": 0.4
+            }
+        },
+        "response": "They used the per-run totals.",
+        "latency_seconds": 18.884541034698486,
+        "timestamp": "2025-12-09T10:45:33.260670"
+    },
+    {
+        "experiment_name": "Pos: 100%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.6",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 1.0,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "How did per-run totals point to the option with the steadiest outcomes?",
+                "question_similarity": 0.6
+            }
+        },
+        "response": "The document does not specify how per-run totals were used to identify the option with the steadiest outcomes.",
+        "latency_seconds": 23.314019918441772,
+        "timestamp": "2025-12-09T10:46:18.602123"
+    },
+    {
+        "experiment_name": "Pos: 100%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.8",
+        "config": {
+            "needle": {
+                "text": "A study measured per run totals for each option and then checked which option yielded the most stable results.",
+                "custom_position_percent": 1.0,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "How were the per run totals used to check for stable results?",
+                "question_similarity": 0.8
+            }
+        },
+        "response": "The per run totals were used to measure stability by comparing the results across multiple runs for each option and identifying which option yielded the most consistent (stable) outcomes.",
+        "latency_seconds": 19.818114757537842,
+        "timestamp": "2025-12-09T10:47:00.459479"
+    },
+    {
+        "experiment_name": "Pos: 100%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.1914",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 1.0,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "How does what is seen first translate into a measurable shift downstream?",
+                "question_similarity": 0.1914
+            }
+        },
+        "response": "The first thing seen acts as an anchor; later judgments are adjusted from that initial value, producing a measurable shift in the final estimate or choice.",
+        "latency_seconds": 19.383251428604126,
+        "timestamp": "2025-12-09T10:47:41.875300"
+    },
+    {
+        "experiment_name": "Pos: 100%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.4014",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 1.0,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "How does a first\u2011seen detail become the reference in later evaluation?",
+                "question_similarity": 0.4014
+            }
+        },
+        "response": "It becomes the anchor point; subsequent judgments are adjusted relative to that initial value.",
+        "latency_seconds": 19.859192609786987,
+        "timestamp": "2025-12-09T10:48:23.764813"
+    },
+    {
+        "experiment_name": "Pos: 100%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.6086",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 1.0,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "What findings related to the single feature first noticed were measured?",
+                "question_similarity": 0.6086
+            }
+        },
+        "response": "The study measured how the single feature first noticed changed option choice in later tasks.",
+        "latency_seconds": 17.191737413406372,
+        "timestamp": "2025-12-09T10:49:02.982153"
+    },
+    {
+        "experiment_name": "Pos: 100%, N-ID: 2, H-Sim: 0.42, Q-Sim: 0.8017",
+        "config": {
+            "needle": {
+                "text": "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks",
+                "custom_position_percent": 1.0,
+                "needle_id": 2,
+                "haystack_similarity": 0.42
+            },
+            "question": {
+                "text": "How did the study measure the way that mark changed option choice in later tasks?",
+                "question_similarity": 0.8017
+            }
+        },
+        "response": "The study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks.",
+        "latency_seconds": 16.62705087661743,
+        "timestamp": "2025-12-09T10:49:41.636578"
+    },
+    {
+        "experiment_name": "Pos: 100%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.2115",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 1.0,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "How is tracking old bugs useful for new related jobs?",
+                "question_similarity": 0.2115
+            }
+        },
+        "response": "Tracking old bugs helps filter out superfluous issues by identifying patterns and avoiding previously resolved problems, making new related jobs more efficient.",
+        "latency_seconds": 19.660200834274292,
+        "timestamp": "2025-12-09T10:50:23.329420"
+    },
+    {
+        "experiment_name": "Pos: 100%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.424114",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 1.0,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "How does keeping a log of prior faults aid future work?",
+                "question_similarity": 0.424114
+            }
+        },
+        "response": "Keeping a log of prior faults helps future work by providing a record that can be reviewed to avoid repeating the same mistakes.",
+        "latency_seconds": 16.786102056503296,
+        "timestamp": "2025-12-09T10:51:02.149114"
+    },
+    {
+        "experiment_name": "Pos: 100%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.5959",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 1.0,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What benefit comes from describing what went wrong for future tasks? ",
+                "question_similarity": 0.5959
+            }
+        },
+        "response": "Writing a short account of what went wrong reduces repeat errors in later, similar decisions.",
+        "latency_seconds": 21.398818969726562,
+        "timestamp": "2025-12-09T10:51:45.583301"
+    },
+    {
+        "experiment_name": "Pos: 100%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.8037",
+        "config": {
+            "needle": {
+                "text": "Studies show that when participants write a short account of what went wrong, they reduce repeat errors in later, similar decisions.",
+                "custom_position_percent": 1.0,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What do studies show happens when participants write a short account of what went wrong?",
+                "question_similarity": 0.8037
+            }
+        },
+        "response": "They reduce repeat errors in later, similar decisions.",
+        "latency_seconds": 17.47134256362915,
+        "timestamp": "2025-12-09T10:52:25.088356"
+    },
+    {
+        "experiment_name": "Pos: 100%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.1999",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 1.0,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What makes a victory mentally cheaper?",
+                "question_similarity": 0.1999
+            }
+        },
+        "response": "A pyrrhic victory.",
+        "latency_seconds": 15.86031723022461,
+        "timestamp": "2025-12-09T10:53:02.981082"
+    },
+    {
+        "experiment_name": "Pos: 100%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.4018",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 1.0,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "Does attributing good results to ability lower mental demand?",
+                "question_similarity": 0.4018
+            }
+        },
+        "response": "Yes.",
+        "latency_seconds": 14.46726107597351,
+        "timestamp": "2025-12-09T10:53:39.489851"
+    },
+    {
+        "experiment_name": "Pos: 100%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.6092",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 1.0,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What effect does a favorable self\u2011judgment have on the depth of cognitive processing in a task?",
+                "question_similarity": 0.6092
+            }
+        },
+        "response": "A favorable self-judgment leads to shallower cognitive processing.",
+        "latency_seconds": 15.863820314407349,
+        "timestamp": "2025-12-09T10:54:17.397033"
+    },
+    {
+        "experiment_name": "Pos: 100%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.7942",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 1.0,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What impact does self attribution bias have on mental effort for evaluating successes?",
+                "question_similarity": 0.7942
+            }
+        },
+        "response": "Self-attribution bias reduces the mental effort required to evaluate successes.",
+        "latency_seconds": 15.306179285049438,
+        "timestamp": "2025-12-09T10:54:54.736583"
+    }
+]
